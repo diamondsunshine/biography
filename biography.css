@@ -1,0 +1,18 @@
+img{
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+    margin-bottom: 80px;
+}
+h1{
+    background-color: rgb(228, 64, 64);
+    height:fit-content 100px;
+    width:fit-content 100px;
+    
+}
+body{
+    background-color: rgb(224, 175, 175);
+}
+span{
+   color:rgb(228, 64, 64) ; 
+}
